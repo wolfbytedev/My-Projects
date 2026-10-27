@@ -1,9 +1,7 @@
 # I'm Timothy Negron
 
 <div style="display: flex; align-items: center">
-<img src="assets/tim.jpeg" style="margin-left: 2vh" width=150/>
     <div style="width: 350px; margin-left: 2vh; font-size: 13pt">
-        I love to write code. This website is here to share some of the stuff I've made with code.
     </div>
 </div>
 
